@@ -16,7 +16,7 @@ def first_student_by_index
   "Nicki Minaj",
   "Rihanna"
 ]
-return student_names[1]
+return student_names[0]
 end
   # Write a solution that returns the first student in the array student_names
 
