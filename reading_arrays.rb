@@ -11,8 +11,8 @@ def first_student_by_index
   puts STUDENT_NAMES.first
 end
 
+first_student_by_index
 return student_names.first
-puts student_names
 
   # Write a solution that returns the first student in the array student_names
 
