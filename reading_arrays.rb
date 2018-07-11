@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  puts STUDENT_NAMES.first
+  return STUDENT_NAMES.first
 end
 
 first_student_by_index
@@ -18,7 +18,7 @@ first_student_by_index
 
 
 def fourth_student_by_index
-  puts STUDENT_NAMES[1,3]
+  return STUDENT_NAMES[1,3]
 end
 
 fourth_student_by_index
@@ -26,7 +26,7 @@ fourth_student_by_index
 
 
 def last_student_by_index
-  puts STUDENT_NAMES.last
+  return STUDENT_NAMES.last
 end
 
 last_student_by_index
