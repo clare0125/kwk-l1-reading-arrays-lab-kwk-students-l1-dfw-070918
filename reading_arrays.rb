@@ -12,7 +12,7 @@ def first_student_by_index
 end
 
 first_student_by_index
-return student_names.first
+
 
   # Write a solution that returns the first student in the array student_names
 
