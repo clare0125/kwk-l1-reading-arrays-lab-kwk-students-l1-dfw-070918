@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  return STUDENT_NAMES[0]
+  STUDENT_NAMES[0]
 end
 
 first_student_by_index
