@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  STUDENT_NAMES = [
+  student_names = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -16,7 +16,7 @@ def first_student_by_index
   "Nicki Minaj",
   "Rihanna"
 ]
-return STUDENT_NAMES[1]
+return student_names[1]
 end
   # Write a solution that returns the first student in the array student_names
 
